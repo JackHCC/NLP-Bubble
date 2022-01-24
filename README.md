@@ -9,7 +9,7 @@
 
 ## Lessons/Books
 
-- [《统计学习方法 第一版》](https://blog.creativecc.cn/posts/Lesson-Statistical-Learning-Method.html)
+- [Statistical Learning Method v1](https://blog.creativecc.cn/posts/Lesson-Statistical-Learning-Method.html)
 
 - [CS224N Natural Language Processing](https://github.com/JackHCC/Awesome-DL-Models/tree/master/Docx/CS224N)
 - [CS224W Machine Learning with Graphs](https://blog.creativecc.cn/posts/Lesson-CS224W-Machine-Learning-with-Graphs.html)
@@ -21,13 +21,15 @@
 - [Arxiv NLP Reporter](https://github.com/JackHCC/Arxiv-NLP-Reporter)
   - [Web Reader](https://blog.creativecc.cn/Arxiv-NLP-Reporter/)
 
+- Todo
+
 
 
 ## NLP Task
 
-常见的32项NLP任务以及对应的评测数据、评测指标、目前的SOTA结果（2020.05）以及对应的Paper
+常见的32项NLP任务以及对应的评测数据、评测指标、目前的SOTA结果（2020.05）以及对应的Paper与Code.
 
-| 任务                                           | 描述                | corpus/dataset                       | 评价指标                                   | SOTA结果                                   | Papers                                                       | Code                                                         |
+| 任务                                           | 描述                | corpus/dataset                       | 评价指标                                   | SOTA                                       | Papers                                                       | Code                                                         |
 | ---------------------------------------------- | ------------------- | ------------------------------------ | ------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Chunking                                       | 组块分析            | Penn Treebank                        | F1                                         | 95.77                                      | [A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks](https://arxiv.org/pdf/1611.01587v5.pdf) | [Link](https://github.com/hassyGo/charNgram2vec)             |
 | Common sense reasoning                         | 常识推理            | Event2Mind                           | cross-entropy                              | 4.22                                       | [Event2Mind: Commonsense Inference on Events, Intents, and Reactions](https://www.dialog-21.ru/media/5090/fenogenovaasplusetal-010.pdf) | [Link](https://github.com/Alenush/russian_event2mind)        |
