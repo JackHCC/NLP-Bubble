@@ -66,14 +66,22 @@
 
 
 
+## Resource
+
+- [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
+
+- [Recommendation-Advertisement-Search](https://github.com/km1994/recommendation_advertisement_search)
+
+- [NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
+
+
+
 ## Learning to learn
 
 - [ ] Statistical Learning Method
 
 - [ ] CS224N
 - [ ] CS224W
-
-
 
 
 
