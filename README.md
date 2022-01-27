@@ -11,8 +11,8 @@
 
 - [Statistical Learning Method v1](https://blog.creativecc.cn/posts/Lesson-Statistical-Learning-Method.html)
 
-- [CS224N Natural Language Processing](https://github.com/JackHCC/Awesome-DL-Models/tree/master/Docx/CS224N)
-- [CS224W Machine Learning with Graphs](https://blog.creativecc.cn/posts/Lesson-CS224W-Machine-Learning-with-Graphs.html)
+- [CS224N Natural Language Processing 2021](https://github.com/JackHCC/Awesome-DL-Models/tree/master/Docx/CS224N)
+- [CS224W Machine Learning with Graphs 2021](https://blog.creativecc.cn/posts/Lesson-CS224W-Machine-Learning-with-Graphs.html)
 
 
 
@@ -21,7 +21,44 @@
 - [Arxiv NLP Reporter](https://github.com/JackHCC/Arxiv-NLP-Reporter)
   - [Web Reader](https://blog.creativecc.cn/Arxiv-NLP-Reporter/)
 
-- Todo
+- Reading Web
+
+  - [ACL anthology](https://www.aclweb.org/anthology/)
+  - [NeurIPS](https://papers.nips.cc) , ICML, ICLR
+
+  - [online preprint servers](https://arxiv.org)
+
+
+
+## DataSet
+
+### Classes
+
+- Linguistic Data Consortium
+  - [Linguistic Data Consortium (upenn.edu)](https://catalog.ldc.upenn.edu/)
+  - [Linguistics (stanford.edu)](https://linguistics.stanford.edu/resources/resources-corpora)
+- Machine translation
+  - [Statistical Machine Translation (statmt.org)](https://statmt.org/)
+- Dependency parsing: Universal Dependencies
+  - [Universal Dependencies](https://universaldependencies.org/)
+
+### Other
+
+- Awesome
+  - [NLPDataSet](https://github.com/liucongg/NLPDataSet)
+  - [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
+
+- Platform
+  - [千言：中文开源数据集合](https://www.luge.ai/)
+  - [Papers With Code](https://paperswithcode.com/datasets)
+  - Kaggle 
+  - [GLUE](https://gluebenchmark.com/tasks)
+
+
+- Blogs
+  - [Datasets for Natural Language Processing](https://machinelearningmastery.com/datasets-natural-language-processing/)
+  - [Sentiment Analysis](https://nlp.stanford.edu/sentiment/)
+  - [The bAbI](https://research.facebook.com/downloads/babi/)
 
 
 
@@ -69,10 +106,9 @@
 ## Resource
 
 - [NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)
-
 - [Recommendation-Advertisement-Search](https://github.com/km1994/recommendation_advertisement_search)
-
 - [NLPer-Arsenal](https://github.com/TingFree/NLPer-Arsenal)
+- [AI-Surveys](https://github.com/KaiyuanGao/AI-Surveys)
 
 
 
