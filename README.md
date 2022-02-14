@@ -11,7 +11,7 @@
 
 - [Statistical Learning Method v1](https://blog.creativecc.cn/posts/Lesson-Statistical-Learning-Method.html)
 
-- [CS224N Natural Language Processing 2021](https://github.com/JackHCC/Awesome-DL-Models/tree/master/Docx/CS224N)
+- [CS224N Natural Language Processing 2022](https://github.com/JackHCC/Awesome-DL-Models/tree/master/Docx/CS224N)
 - [CS224W Machine Learning with Graphs 2021](https://blog.creativecc.cn/posts/Lesson-CS224W-Machine-Learning-with-Graphs.html)
 
 
@@ -112,12 +112,11 @@
 
 
 
-## Learning to learn
+## Interview
 
-- [ ] Statistical Learning Method
-
-- [ ] CS224N
-- [ ] CS224W
+- [Machine Learning](./docs/interview/machine learning.md)
+- [Deep Learning](./docs/interview/deep learning.md)
+- [Reverse](./docs/interview/reverse interview.md)
 
 
 
