@@ -114,9 +114,9 @@
 
 ## Interview
 
-- [Machine Learning](./docs/interview/machine learning.md)
-- [Deep Learning](./docs/interview/deep learning.md)
-- [Reverse](./docs/interview/reverse interview.md)
+- [Machine Learning](./docs/interview/machine-learning.md)
+- [Deep Learning](./docs/interview/deep-learning.md)
+- [Reverse](./docs/interview/reverse-interview.md)
 
 
 
