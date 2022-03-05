@@ -116,6 +116,9 @@
 
 - [Machine Learning](./docs/interview/machine-learning.md)
 - [Deep Learning](./docs/interview/deep-learning.md)
+- [Word Embedding](./docs/interview/word-embedding.md)
+- [Transformer](./docs/interview/transformer.md)
+- [Bert](./docs/interview/bert.md)
 - [Reverse](./docs/interview/reverse-interview.md)
 
 
