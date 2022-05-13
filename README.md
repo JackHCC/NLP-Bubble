@@ -64,6 +64,10 @@
 
 ## NLP Task
 
+思维导图：
+
+![](../../../Blog/JackCC.Blog/hexo_blog/source/images/lesson/NLP_Task.png)
+
 常见的32项NLP任务以及对应的评测数据、评测指标、目前的SOTA结果（2020.05）以及对应的Paper与Code.
 
 | 任务                                           | 描述                | corpus/dataset                       | 评价指标                                   | SOTA                                       | Papers                                                       | Code                                                         |
