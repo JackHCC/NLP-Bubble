@@ -10,10 +10,15 @@
 - [双指针](https://jackhcc.notion.site/d02d837eb0e647008e2dbe24cf6335d3)
 - [栈与队列](https://jackhcc.notion.site/8f1e62f4bd8e47a1afd6c607d091922c)
 - [二叉树](https://jackhcc.notion.site/1a43218625fc4667a56ee1916b73fe49)
+- [回溯算法](https://jackhcc.notion.site/cd0ecf9fbcad4920b70ae19930f0b986)
+- [贪心算法](https://jackhcc.notion.site/d0bf90a4326d4fa186a10c1f09b14ead)
 - [动态规划](https://jackhcc.notion.site/fc127941345c44b88a3b5e80ae7f9ce9)
+- [单调栈](https://jackhcc.notion.site/53fe48f6a6ad4d8786035e55248036a8)
 - [排序算法](https://jackhcc.notion.site/86923a1d01084a6ba132213f7bf9d3a9)
 
+### 总结
 
+![](../../image/basic/Leecode.png)
 
 ## 资料
 
